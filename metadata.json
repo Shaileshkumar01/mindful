@@ -1,0 +1,5 @@
+{
+  "name": "MindfulStudent",
+  "description": "A mental health tracker for college students to monitor mood trends and identify stressors.",
+  "requestFramePermissions": []
+}
